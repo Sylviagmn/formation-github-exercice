@@ -1,6 +1,8 @@
 # Formation GitHub
 
-Hello *Sylvia* !
+
+Hello *Thieuma* !
+
 
 ## Exercice
 
