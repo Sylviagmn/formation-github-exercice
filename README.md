@@ -1,6 +1,6 @@
 # Formation GitHub
 
-Hello *Helene* !
+Hello *World* !
 
 ## Exercice
 
