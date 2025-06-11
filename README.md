@@ -1,7 +1,7 @@
 # Formation GitHub
 
 
-Hello *Staline* !
+Hello *Stalinou* !
 
 
 ## Exercice
